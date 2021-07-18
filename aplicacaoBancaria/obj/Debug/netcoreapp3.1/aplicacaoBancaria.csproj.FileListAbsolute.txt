@@ -1,0 +1,13 @@
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\bin\Debug\netcoreapp3.1\aplicacaoBancaria.exe
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\bin\Debug\netcoreapp3.1\aplicacaoBancaria.deps.json
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\bin\Debug\netcoreapp3.1\aplicacaoBancaria.runtimeconfig.json
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\bin\Debug\netcoreapp3.1\aplicacaoBancaria.runtimeconfig.dev.json
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\bin\Debug\netcoreapp3.1\aplicacaoBancaria.dll
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\bin\Debug\netcoreapp3.1\aplicacaoBancaria.pdb
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\obj\Debug\netcoreapp3.1\aplicacaoBancaria.csprojAssemblyReference.cache
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\obj\Debug\netcoreapp3.1\aplicacaoBancaria.AssemblyInfoInputs.cache
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\obj\Debug\netcoreapp3.1\aplicacaoBancaria.AssemblyInfo.cs
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\obj\Debug\netcoreapp3.1\aplicacaoBancaria.csproj.CoreCompileInputs.cache
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\obj\Debug\netcoreapp3.1\aplicacaoBancaria.dll
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\obj\Debug\netcoreapp3.1\aplicacaoBancaria.pdb
+D:\Projetos DIO\Aplicação de transferências bancárias com .NET\aplicacaoBancaria\obj\Debug\netcoreapp3.1\aplicacaoBancaria.genruntimeconfig.cache

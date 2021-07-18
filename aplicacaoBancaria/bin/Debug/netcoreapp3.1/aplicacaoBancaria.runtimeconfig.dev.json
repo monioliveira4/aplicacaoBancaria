@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\monio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\monio\\.nuget\\packages"
+    ]
+  }
+}
